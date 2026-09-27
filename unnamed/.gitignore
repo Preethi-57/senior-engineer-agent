@@ -1,0 +1,16 @@
+.env
+workspace/
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage/
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+.env
+workspace/*
+!.gitkeep
